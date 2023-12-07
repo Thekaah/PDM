@@ -1,0 +1,4 @@
+#Thu Dec 07 20:07:56 BRT 2023
+base.0=C\:\\Users\\lucia\\StudioProjects\\contador\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

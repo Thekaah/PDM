@@ -1,0 +1,17 @@
+dev.startto.contador.app-jetified-window-1.0.0-beta04-0 C:\Users\lucia\.gradle\caches\transforms-3\25cee5f028ac2a6b79fd6278ff5b59e2\transformed\jetified-window-1.0.0-beta04\res
+dev.startto.contador.app-jetified-play-services-basement-18.1.0-1 C:\Users\lucia\.gradle\caches\transforms-3\58aa1384bde170d075503b845cfcf44c\transformed\jetified-play-services-basement-18.1.0\res
+dev.startto.contador.app-jetified-annotation-experimental-1.1.0-2 C:\Users\lucia\.gradle\caches\transforms-3\6c0c163cc77ae6c91f9f7dfcd179c29c\transformed\jetified-annotation-experimental-1.1.0\res
+dev.startto.contador.app-core-1.6.0-3 C:\Users\lucia\.gradle\caches\transforms-3\7e9df2ac2213a6bd3cef0f2f27870d79\transformed\core-1.6.0\res
+dev.startto.contador.app-jetified-window-java-1.0.0-beta04-4 C:\Users\lucia\.gradle\caches\transforms-3\ae81e06d24c799147c26814497a2a305\transformed\jetified-window-java-1.0.0-beta04\res
+dev.startto.contador.app-jetified-firebase-common-20.4.2-5 C:\Users\lucia\.gradle\caches\transforms-3\e7d9dc77e05549f012842a2b34d6bb45\transformed\jetified-firebase-common-20.4.2\res
+dev.startto.contador.app-debug-6 C:\Users\lucia\StudioProjects\contador\android\app\src\debug\res
+dev.startto.contador.app-main-7 C:\Users\lucia\StudioProjects\contador\android\app\src\main\res
+dev.startto.contador.app-pngs-8 C:\Users\lucia\StudioProjects\contador\build\app\generated\res\pngs\debug
+dev.startto.contador.app-resValues-9 C:\Users\lucia\StudioProjects\contador\build\app\generated\res\resValues\debug
+dev.startto.contador.app-rs-10 C:\Users\lucia\StudioProjects\contador\build\app\generated\res\rs\debug
+dev.startto.contador.app-mergeDebugResources-11 C:\Users\lucia\StudioProjects\contador\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+dev.startto.contador.app-mergeDebugResources-12 C:\Users\lucia\StudioProjects\contador\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+dev.startto.contador.app-merged_res-13 C:\Users\lucia\StudioProjects\contador\build\app\intermediates\merged_res\debug
+dev.startto.contador.app-packaged_res-14 C:\Users\lucia\StudioProjects\contador\build\firebase_core\intermediates\packaged_res\debug
+dev.startto.contador.app-packaged_res-15 C:\Users\lucia\StudioProjects\contador\build\shared_preferences_android\intermediates\packaged_res\debug
+dev.startto.contador.app-packaged_res-16 C:\Users\lucia\StudioProjects\contador\build\sqflite\intermediates\packaged_res\debug
